@@ -1,0 +1,4 @@
+Types of questions
+
+1) Find n items in a set that sum to x
+    - if 2, iterate through set and for each i check hash for x - i and hash i
